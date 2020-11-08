@@ -1,0 +1,4 @@
+[submodule "spesch.github.io"]
+	path = spesch.github.io
+	url = https://github.com/spesch/spesch.github.io.git
+	branch = master
