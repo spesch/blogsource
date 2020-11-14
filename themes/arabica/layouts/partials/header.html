@@ -1,0 +1,35 @@
+<header class="main-header">
+	<div class="main-header-content">
+		<h1 class="blog-title">
+			<!-- <a href="{{ "/" | relLangURL }}"> -->
+			<!-- <div> -->
+				{{ if .Site.Params.logoTitle }}
+					{{ .Site.Params.logoTitle | safeHTML }}
+				{{ else }}
+           {{ .Site.Title }}
+				{{ end }}
+			<!-- </a> -->
+			<!-- </div> -->
+		</h1>
+		<img src="/img/divider1.png" class="imgdivider" width="400"/>
+		<img src="/img/guschi.png" alt="Uschi & Georg" class="imgcpl" width="500"/>
+		<h2 class="blog-description">{{ .Site.Params.description }}</h2>
+		<br/>TODO img (header.html), flowers top / bottom / dividers
+		<br/>TODO button style
+		<br/>subtitle font & size
+		<br/>title font & size
+	</div>
+
+	<div class="nav">
+    {{ $currentPage := . }}
+		{{ range .Site.Menus.main }}
+      <a class="nav-button" role="presentation" 
+		href="#{{ .Page.Params.a }}"
+		>
+		<!-- hrefwas{{ .URL | relLangURL | safeURL }} -->
+		<!-- replace with nice buttons that scroll -->
+	  {{ .Name }}
+	  </a>
+	{{ end }}
+	</div>
+</header>
