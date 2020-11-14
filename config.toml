@@ -1,0 +1,15 @@
+baseurl = "https://spesch.github.io/"
+title = "Uschi & Geo"
+author = "Georg Sperl"
+paginate = 3
+theme = "arabica"
+
+[params]
+    description = "Wir heiraten!"
+    dateFormatToUse = "2006-01-02"
+    replaceGoogleFonts = "fonts.loli.net"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
