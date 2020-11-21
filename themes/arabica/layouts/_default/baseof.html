@@ -2,8 +2,10 @@
 <html>
     {{ partial "head.html" . }}
     <body class="{{ block "body_class" . }}{{end}}">
+        <div class="paper">
         {{ partial "header.html" . }}
         {{ block "main" . }}{{ end }}
         {{ partial "footer.html" . }}
+        </div>
     </body>
 </html>

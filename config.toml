@@ -1,11 +1,11 @@
 baseurl = "https://spesch.github.io/"
-title = "Uschi & Geo"
+title = "Hochzeit"
 author = "Georg Sperl"
 paginate = 3
 theme = "arabica"
 
 [params]
-    description = "Wir heiraten!"
+    description = "Georg & Uschi"
     dateFormatToUse = "2006-01-02"
     replaceGoogleFonts = "fonts.loli.net"
 
