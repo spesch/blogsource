@@ -25,4 +25,4 @@ weight: 1
 
 **Anfahrt Bus:** Linie 301 (von Wr. Neudorf, Guntramsdorf oder Baden) bis Bad Vöslau Thermalbad und dann 10 Minuten zu Fu&szlig;
 
-
+**&Uuml;bernachten:** Am Weingut gibt es leider keine Zimmer, aber im Ort g&auml; es einige Hotels.
