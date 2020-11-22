@@ -15,9 +15,9 @@ weight: 2
 
 #### Trauzeugen
 
-**Marian:** marian.fuersatz@gmail.com
-
 **Bettina:** bettina-aigner@gmx.at
+
+**Marian:** marian.fuersatz@gmail.com
 
 Bei Spieleideen und &Auml;hnlichem, bitte um R&uuml;cksprache mit den Trauzeugen!
 
@@ -25,7 +25,7 @@ Bei Spieleideen und &Auml;hnlichem, bitte um R&uuml;cksprache mit den Trauzeugen
 #### Geschenke
 
 <!-- Macht euch die Geschenkesuche nicht zur Qual, *Geld* ist f&uuml;r uns die beste Wahl! -->
-Auf der Hochzeitsreise wollen wir Sonne, Abenteuer und Meer; darum freuen wir uns &uuml;ber *Geld*geschenke sehr. 
+Auf der Hochzeitsreise wollen wir Sonne, Abenteuer und Meer, darum freuen wir uns &uuml;ber *Geld*geschenke sehr. 
 
 
 #### Dresscode

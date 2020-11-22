@@ -6,7 +6,7 @@ a: when
 weight: 1
 ---
 
-**Wann:** Wir feiern am _03.09.2021_ ab 14:30 Uhr (Trauung planm&auml;&szlig;ig um 15:00 Uhr)
+**Wann:** Wir feiern am _Freitag_ den _03.09.2021_ ab 14:30 Uhr (Trauung planm&auml;&szlig;ig um 15:00 Uhr)
 
 **Wo:** <a href="http://www.weingutschlossberg.at">Weingut Schlossberg Bad V&ouml;slau</a> 
 
@@ -19,10 +19,12 @@ weight: 1
 </div>
 </div>
 
-**Anfahrt Auto:** S&uuml;dautobahn A2 Abfahrt Bad V&ouml;slau 
+**Anfahrt Auto:** S&uuml;dautobahn A2 Abfahrt Bad V&ouml;slau. Es gibt einen relativ gro&szlig;en Parkplatz beim Weingut.
 
 **Anfahrt Bahn:** Bahnhof Bad V&ouml;slau und dann 15-20 Minuten zu Fu&szlig; (oder mit dem Citytaxi Bad V&ouml;slau 02252/73333)
 
 **Anfahrt Bus:** Linie 301 (von Wr. Neudorf, Guntramsdorf oder Baden) bis Bad Vöslau Thermalbad und dann 10 Minuten zu Fu&szlig;
 
-**&Uuml;bernachten:** Am Weingut gibt es leider keine Zimmer, aber im Ort g&auml; es einige Hotels.
+Bei Bedarf k&ouml;nnen wir ein Gruppentaxi nach Wien f&uuml;r die Heimfahrt organisieren.
+
+**&Uuml;bernachten:** Am Weingut gibt es leider keine Zimmer, aber im Ort g&auml;be es einige Hotels.
